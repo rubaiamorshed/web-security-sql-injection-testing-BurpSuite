@@ -138,4 +138,4 @@ This assessment highlights the critical risks of SQL injection vulnerabilities i
 ## 👩‍💻 Author
 
 Rubaia Morshed
-Cybersecurity Analyst (Student)
+Cybersecurity Analyst 
